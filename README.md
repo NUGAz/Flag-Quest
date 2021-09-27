@@ -1,2 +1,2 @@
-# Flag_quest
+# Flag Quest
 Simple flag getter
